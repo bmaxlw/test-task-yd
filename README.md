@@ -1,1 +1,4 @@
-# Test Task - YD - 14/6/22
+1. git clone https://github.com/bmaxlw/test-task-yd.git
+2. pip install jupyterlab
+3. pip install notebook
+4. jupyter-notebook
